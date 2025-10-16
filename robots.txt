@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phndoidep123.github.io/cuahangmatkinh/sitemap.xml
